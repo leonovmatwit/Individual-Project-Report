@@ -1,9 +1,9 @@
 This repository contains the following elements:
 
-- Report_AMD_Stock_Prediction.docx and Report_AMD_Stock_Prediction.pdf: Project report
+- Individual_Project_Report.docx and Individual_Project_Report.pdf: Project report
 - Data: Contains AMD.US.csv dataset
-- Graphs: Contains all the visualizations 
-- Codes: Contains amd_stock_prediction.ipynb
+- Graph: Contains all the visualizations 
+- Codes: Contains AMD Stock Price Analysis.ipynb
 
 Instructions to run the code:
 1. Clone the repo
