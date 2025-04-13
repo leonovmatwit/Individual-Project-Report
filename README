@@ -1,1 +1,11 @@
+This repository contains the following elements:
 
+- Report_AMD_Stock_Prediction.docx and Report_AMD_Stock_Prediction.pdf: Project report
+- Data: Contains AMD.US.csv dataset
+- Graphs: Contains all the visualizations 
+- Codes: Contains amd_stock_prediction.ipynb
+
+Instructions to run the code:
+1. Clone the repo
+2. Make sure you have the required libraries installed (pandas, numpy, matplotlib, tensorflow, scikit-learn)
+3. Open and run the Jupyter notebook in the codes folder
